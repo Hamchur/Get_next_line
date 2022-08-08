@@ -8,3 +8,5 @@ Get_next_line — это функция, которая считывает це�
 ```
 gcc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c && ./a.out
 ```
+## Проверка на роботоспособность
+![alt-текст](https://camo.githubusercontent.com/b199939154038b6e6762dc1bea22e93065cba10bd6b20220f094a6371035697e/68747470733a2f2f692e696d6775722e636f6d2f75344c6936414d2e706e67)
